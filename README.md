@@ -1,11 +1,5 @@
 <h1 align="center">Results summary component</h1>
 
-<div align="center">
-  <h3>
-    <a href="https://rvs-product-landing-page.vercel.app/">Preview Website</a>
-  </h3>
-</div>
-
 ## Overview
 
 ![Desktop](./screenshots/desktop.png)
